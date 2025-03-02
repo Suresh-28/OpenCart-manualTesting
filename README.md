@@ -1,3 +1,32 @@
+Web Application Testing (Manual Testing)
+🛠 Web Application Testing (Manual Testing - Test Plan, Test Cases, and Test Scenarios):
+Executed comprehensive manual testing on a dynamic web application to ensure functionality, usability, and performance. Designed structured test plans, detailed test cases, and practical test scenarios to achieve optimal test coverage and quality assurance.
+
+🔹 Test Plan Development:
+- Defined testing objectives, scope, resources, test deliverables, and risk assessment.
+- Established entry and exit criteria  for different test phases.
+- Identified required test environments, test data, and preconditions for execution.
+- Assigned responsibilities and prioritized test execution based on risk analysis.
+
+🔹 Test Case Design & Execution:
+- Created 100+ detailed test cases covering functional, UI/UX, database, security, and performance aspects.
+- Developed test cases following the Boundary Value Analysis (BVA) and Equivalence Partitioning (EP) techniques*
+- Executed positive and negative test cases to validate input handling and system behavior.
+- Performed cross-browser and cross-device testing to ensure compatibility across Chrome, Firefox, and Edge.
+
+
+🔹 Test Scenarios & Defect Tracking:
+- Designed real-world test scenarios to simulate user interactions such as login/logout, form submissions, payment gateway processing, and database transactions.
+- Reported defects with detailed steps to reproduce, screenshots, and severity levels.
+- Collaborated with developers to perform defect triaging, prioritization, and resolution.
+
+🔹 Outcome & Impact:
+- Achieved 95% test coverage through structured test case design and scenario-based testing.
+- Reduced critical production defects by 80% through early-stage manual testing.
+- Improved software stability and enhanced user experience by validating UI/UX consistency and database integrity.
+
+
+
 # OpenCart-manualTesting
 OpenCart is free open source e-commerce platform for online merchants.
 OpenCart provides a professional and reliable foundation from which to build a
